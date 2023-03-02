@@ -12,12 +12,9 @@
 ### 2021 ~ 2023 NHK Robocon / ABU Robocon
 - Maquinista (Tokyo Institute of Technology)
 
-# 
-
 # Skills
 ## Language
-- C/C++
-- Embeded
+- C/C++ (Embeded / Linux)
 - Python
 - Shell Script
 
