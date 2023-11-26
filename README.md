@@ -2,15 +2,16 @@
 
 藤山優太 / Yuta Fujiyama
 
-東京工業大学システム制御系 / Tokyo Institute of Technology Systems and Control
+東京工業大学システム制御系 / Tokyo Institute of Technology Department of Systems and Control
 
 # History
-### 2013 ~ 20221 RoboCup Junior Soccer
+### 2013 ~ 2021 RoboCup Junior Soccer
 - CIAO Tezukayama
 - Leopard
 
 ### 2021 ~ 2023 NHK Robocon / ABU Robocon
 - Maquinista (Tokyo Institute of Technology)
+  - In charge of **mech**, **circuit** and **control**
 
 # Skills
 ## Language
@@ -19,8 +20,8 @@
 - Shell Script
 
 ## Tools
-- git
-- GitHub
+- git, GitHub
+- ROS2
 - MATLAB
 
 ## CAD
