@@ -18,10 +18,14 @@
 - C/C++ (Embeded / Linux)
 - Python
 - Shell Script
+- HTML, JavaScript
 
 ## Tools
 - git, GitHub
-- ROS2
+- ROS, ROS2
+- make
+- cmake
+- docker
 - MATLAB
 
 ## CAD
@@ -34,5 +38,6 @@
 
 # Links
 - [Yuta's Blog](http://yuta.techblog.jp)
-- [<img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/318px-YouTube_full-color_icon_%282017%29.svg.png"> Yuta - YouTube Channel](https://www.youtube.com/@yuta9428)
-- [<img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/300px-Twitter-logo.svg.png"> Yuta@ciao_yuta - Twitter](https://twitter.com/ciao_yuta)
+- [<img width="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/318px-YouTube_full-color_icon_%282017%29.svg.png"> Yuta - YouTube Channel](https://www.youtube.com/@yuta9428)
+- [<img width="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/2560px-X_logo_2023.svg.png"> Yuta@ciao_yuta - X (Twitter)](https://twitter.com/ciao_yuta)
+- [<img width="15px" src="https://static.licdn.com/aero-v1/sc/h/2if24wp7oqlodqdlgei1n1520"> Yuta Fujiyama - LinkedIn](https://www.linkedin.com/in/yuta-fujiyama-34a113268/)
