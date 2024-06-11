@@ -4,6 +4,8 @@
 
 東京工業大学システム制御系 / Tokyo Institute of Technology Department of Systems and Control
 
+<div align="center"><img src="https://github.com/yutatech/yutatech/assets/61183418/a6fac784-3029-4e78-b176-b456ba717a10" width="50%"/></div>
+
 # History
 ### 2013 ~ 2021 RoboCup Junior Soccer
 - CIAO Tezukayama
