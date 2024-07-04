@@ -4,14 +4,8 @@
 
 東京工業大学システム制御系 / Tokyo Institute of Technology Department of Systems and Control
 
-<div style="width:100%; height:auto;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=yutatech&count_private=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutatech&hide=jupyter%20notebook,shaderlab,tex,c%23&langs_count=9" />
-  </a>
-</div>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yutatech&layout=compact&hide=Assembly&langs_count=8)
 
 # [Portfolio click here](https://yutatech.github.io)
 
