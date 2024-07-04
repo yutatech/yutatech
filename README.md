@@ -5,7 +5,7 @@
 東京工業大学システム制御系 / Tokyo Institute of Technology Department of Systems and Control
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yutatech&layout=compact&hide=Assembly&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yutatech&layout=compact&hide=Assembly&langs_count=8&exclude_repo=SPI_LAN_TEST)
 
 # [Portfolio click here](https://yutatech.github.io)
 
