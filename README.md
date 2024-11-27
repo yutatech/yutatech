@@ -7,7 +7,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yutatech&layout=compact&hide=Assembly&langs_count=8&exclude_repo=SPI_LAN_TEST)
 
-# [Portfolio click here](https://yutatech.github.io)
+# Portfolio
+- [Yuta's Portfolio](https://yutatech.github.io)
 
 # History
 ### 2013 ~ 2021 RoboCup Junior Soccer
